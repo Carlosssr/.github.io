@@ -13,8 +13,9 @@ Welcome to my personal portfolio project showcasing the H Plus Sport Order Summa
 - **Visualization:** Leveraged Plotly Express and Plotly Graph Objects to create an interactive bar chart representing total sales by state. The visualization is integrated into a dynamic dashboard developed with Dash.
 
 - **Web-Based Dashboard:** Developed a responsive web-based dashboard using Dash, allowing users to explore different aspects of the H Plus Sport Order Summary data, including the ability to switch between total sales, average sales, minimum sales, and maximum sales.
+- 
 
-- https://upgraded-invention-p759xxrrwqvh9r79-8050.app.github.dev/
+- This is the data visualized, check it out here! https://upgraded-invention-p759xxrrwqvh9r79-8050.app.github.dev/
 
 ## Project Structure
 
